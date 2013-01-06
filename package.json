@@ -1,0 +1,35 @@
+{
+  "name": "node-nonce",
+  "description": "Verify intent by generating and validating nonces.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ahultgren/node-nonce",
+  "author": {
+    "name": "Andreas Hultgren",
+    "email": "me@andreashultgren.se",
+    "url": "http://andreashultgren.se"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ahultgren/node-nonce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ahultgren/node-nonce/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/ahultgren/node-nonce/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/node-nonce",
+  "engines": {
+    "node": ">= 0.8.15"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.11"
+  },
+  "keywords": []
+}
