@@ -2,12 +2,13 @@
 
 Verify intent by generating and validating nonces.
 
+Please note that as long as this text is here, this is very much a work in progress and should be treated as such.
+
 ## Getting Started
-Install the module with: `npm install node-nonce`
+Install the module with: `npm install node-nonce` (coming soon).
 
 ```javascript
-var node_nonce = require('node-nonce');
-node_nonce.awesome(); // "awesome"
+var nonce = require('node-nonce');
 ```
 
 ## Documentation
